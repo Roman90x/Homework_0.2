@@ -56,9 +56,9 @@ public class Main {
         System.out.println("Разница между весами бойцов " + differenceBoxers2);
 
         System.out.println("Задание 8");
-        var alltime = 640;
+        var allTime = 640;
         var individualTime = 8;
-        var people = alltime / individualTime;
+        var people = allTime / individualTime;
         System.out.println("Всего работников в компании " + people + " человек");
         people = people + 94;
         var newTime = people * 8;
